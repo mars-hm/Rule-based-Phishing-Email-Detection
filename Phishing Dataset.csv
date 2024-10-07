@@ -1,0 +1,51 @@
+Sender,Subject,Body,Attachments,Keyword,Label
+cchristberkeley.edu@gmail.com,URGENT REQUEST,"Are you available ?
+No calls text only 9513072XXX",Nil,Urgent,Phishing Email
+hharvard.edu@gmail.com,Library Account,"Dear Student,
+
+Your access to your library account is expiring soon due to inactivity. To
+continue to have access to the library services, you must reactivate your
+account. For this purpose, click the web address below or copy and paste it
+into your web browser. A successful login will activate your account and
+you will be redirected to your library profile.
+
+https://auth.berkeley.edu/cas/login?service=https%3a%2f%
+
+
+If you are not able to login, please contact <Name Removed> at
+xxxxx@berkeley.edu (link sends e-mail) for immediate assistance.",Url,"expiring soon, inactivity, ",Phishing Email
+customercare@fedex.org,FedEx Shipment Update,"Dear Customer,
+
+We could not deliver your item.
+
+You can review and print complete details of shipping duty on your order.
+
+Thanks",PDF Attachment:  update_Form.pdf,"shipment, update",Safe Email
+office@korloycompany.ro,DHL EXPRESS DOCUMENT,"Your parcel (shipping document) arrived at the post office. Here is your Shipping Document/Invoice and copy of DHL receipt for your tracking which includes the bill of lading and DHL tracking number, the new Import/Export policy supplied by DHL Express. Please kindly check the attached to confirm accordingly if your address is correct, before we submit to our outlet office for dispatch to your destination.",DHL_EXPRESS.pdf (34Kb) View | Download,"DHL, shipping",Safe Email
+jdoe@seedschoolmd.org,Dear Email User,"Your password will expire in 2 days, Click Here
+to re-change your password immediately.",Click here,"expire, password, immidiately",Safe Email
+hharvard.edu@gmail.com,,"
+Mortgage companies make you wait...They Demand to Interview you...They Intimidate you... and All of That While They Decide If They Even Want to Do Business With You...We Turn the Tables on Them...
+Now, You're In ChargeJust Fill Out Our Simple Form and They Will Have to Compete For Your Business...Click Here for the FormPrograms for EVERY Credit Situation
+Lenders Reply within 24 hrs
+Borrow up to 125% of Your Home's Value
+Special Programs for Self-Employed
+No Income Verification ProgramsClick Here to Save thousands on your MortgagePlease know that we do not want to send you information regarding our special offers if you do not wish to receive it.Â  If you would no longer like us to contact you or you feel that you have received this email in error, you may click here to unsubscribe.wsop",,,Phishing Email
+john.doe@ulberta.ca,"Re:
+X-PHP-Originating-Script: 1336:NPS.php","Dear Dr. <recipient's name removed>;
+
+I recently read your last article and it was very useful in my field of research. I wonder, if possible, to send me these articles to use in my current research:
+
+1- http://auth.berkeley.eduh.in/<link removed>
+
+2- http://www.sciencedirect.com/science/article/pii/S1644966515000825(link is external)
+
+Thanks for you Cooperation in Advance.
+John Doe
+Department of Civil and Environmental Engineering University of Alberta
+Phone: (XXX) XXX-XXXX
+--21878cacb2d3a784678d12d61f1136d7--",URL,research,Safe Email
+users@lists.sourceforge.net,Software installation issue,"I just installed razor 2.152 on a FreeBSD 4.4-RELEASE box and having > problems with razor-check. Any time razor-check is run, (with or without > arguments), i get this error: > > Can't use an undefined value as a symbol reference at > /usr/local/lib/perl5/site_perl/5.005/i386-freebsd/Razor2/Client/Agent.pm > line 756. > Try installing the latest Perl (at least 5.6.1) port on Freebsd and make sure you set the system to use perl from ports (i.e. in the ports/lang/perl5/files directory run ./use.perl port. Reinstall the relevant perl modules needed by razor and try again",Nil,,Safe Email
+penweltm@miamioh.edu,�Important Announcement from Chancellor Nicholas B. Dirks,"Good Morning Berkeley Family,
+
+Please read attached for an important announcement from Chancellor Nicholas B. Dirks",1 attachment: shared Document.pdf,"important, chancellor",Safe Email
